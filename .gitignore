@@ -1,0 +1,15 @@
+# FreeCad
+*.FCStd1
+
+###### Mac
+
+# General Mac files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+
+
